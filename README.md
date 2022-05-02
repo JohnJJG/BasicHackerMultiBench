@@ -17,7 +17,7 @@ I had a basic list of needs:
 
 Most of the effort has gone into the 3D case for components and power supply. I have tried to do this in a modular fashion in OpenSCAD to allow the configuration to be changed.
 
-The main components of this are DSP3005 Programmable Power Supply (~$28) and a DSO150 basic oscilloscope (~$50 for an original). The rest are standard parts like volt/ammeter, voltmeter, binding posts, switch, connectors, dc buck converters, DC to USB
+The main components of this are DSP3005 Programmable Power Supply (\~$28) and a DSO150 basic oscilloscope (\~$50 for an original). The rest are standard parts like volt/ammeter, voltmeter, binding posts, switch, connectors, dc buck converters, DC to USB
 
 # Before you start
 This is an intermediate level project and assumes familiarity with buck converters and soldering.  The space is tight and may require a little adjustment of wires as components are added.  The PSU is an optional part of the build but is fully integrated.  The PSU involves working with mains voltage so do not do this part if you are not use to working with mains voltages (because…death etc).  An alternative is to get a 24V 5A brick supply and add an XT60 female connector.
